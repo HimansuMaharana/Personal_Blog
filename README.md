@@ -22,5 +22,5 @@ A modern and minimal **blog website** built with **HTML and CSS**. The blog feat
 - **HTML** – Structure of the blog pages.  
 - **CSS** – Styling, grid layout, and responsiveness.
 
-## 🖼️ Image Credits  
+## 🌟 Image Credits  
 - All images used in this project are sourced from [Unsplash](https://unsplash.com), a platform providing high-quality, free-to-use images.
