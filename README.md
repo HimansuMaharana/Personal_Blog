@@ -14,9 +14,9 @@ A modern and minimal **blog website** built with **HTML and CSS**. The blog feat
 - **Footer Section** – Displays copyright information.  
 
 ## 📜 How It Works  
-1. Click on a **blog card** to read the full post.  
-2. Use the **navigation bar** to explore different sections of the blog.  
-3. The layout adapts to different screen sizes for the best viewing experience.  
+- Click on a **blog card** to read the full post.
+-  Use the **navigation bar** to explore different sections of the blog.
+-   The layout adapts to different screen sizes for the best viewing experience.  
 
 ## 🛠️ Technologies Used  
 - **HTML** – Structure of the blog pages.  
