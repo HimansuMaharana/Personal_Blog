@@ -18,6 +18,9 @@ A modern and minimal **blog website** built with **HTML and CSS**. The blog feat
 -  Use the **navigation bar** to explore different sections of the blog.
 -   The layout adapts to different screen sizes for the best viewing experience.  
 
-## 🛠️ Technologies Used  
+ 
 - **HTML** – Structure of the blog pages.  
 - **CSS** – Styling, grid layout, and responsiveness.
+
+## 🖼️ Image Credits  
+- All images used in this project are sourced from [Unsplash](https://unsplash.com), a platform providing high-quality, free-to-use images.
